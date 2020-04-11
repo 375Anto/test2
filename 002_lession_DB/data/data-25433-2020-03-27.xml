@@ -1,0 +1,271 @@
+<?xml version="1.1" encoding="windows-1251"?>
+<catalog>
+    <array>
+        <UsagePeriodWinter>01.09-31.08</UsagePeriodWinter>
+        <Address>Живописная улица, дом 21, корпус 2</Address>
+        <HasToilet>нет</HasToilet>
+        <HasMusic>нет</HasMusic>
+        <Paid>платно</Paid>
+        <ServicesWinter>общая физическая подготовка</ServicesWinter>
+        <DimensionsWinter>
+            <Length>25.0</Length>
+            <Square>350.0</Square>
+            <Width>14.0</Width>
+        </DimensionsWinter>
+        <AdmArea>Северо-Западный административный округ</AdmArea>
+        <SurfaceTypeWinter>специальное покрытие</SurfaceTypeWinter>
+        <Lighting>освещение светодиодными лампами</Lighting>
+        <HasDressingRoom>нет</HasDressingRoom>
+        <WorkingHoursWinter>
+            <DayOfWeek>понедельник</DayOfWeek>
+            <Hours>08:00-20:00</Hours>
+        </WorkingHoursWinter>
+        <WorkingHoursWinter>
+            <DayOfWeek>вторник</DayOfWeek>
+            <Hours>08:00-20:00</Hours>
+        </WorkingHoursWinter>
+        <WorkingHoursWinter>
+            <DayOfWeek>среда</DayOfWeek>
+            <Hours>08:00-20:00</Hours>
+        </WorkingHoursWinter>
+        <WorkingHoursWinter>
+            <DayOfWeek>четверг</DayOfWeek>
+            <Hours>08:00-20:00</Hours>
+        </WorkingHoursWinter>
+        <WorkingHoursWinter>
+            <DayOfWeek>пятница</DayOfWeek>
+            <Hours>08:00-20:00</Hours>
+        </WorkingHoursWinter>
+        <WorkingHoursWinter>
+            <DayOfWeek>суббота</DayOfWeek>
+            <Hours>08:00-20:00</Hours>
+        </WorkingHoursWinter>
+        <WorkingHoursWinter>
+            <DayOfWeek>воскресенье</DayOfWeek>
+            <Hours>08:00-20:00</Hours>
+        </WorkingHoursWinter>
+        <HasCashMachine>нет</HasCashMachine>
+        <HelpPhone>(495) 730-36-36</HelpPhone>
+        <HasTechService>нет</HasTechService>
+        <NameWinter>бассейн плавательный 25-ти метровый открытый</NameWinter>
+        <DisabilityFriendly>не приспособлен</DisabilityFriendly>
+        <HasEatery>нет</HasEatery>
+        <global_id>407174260</global_id>
+        <HasWifi>нет</HasWifi>
+        <geoData>
+            <coordinates>37.447958143480754</coordinates>
+            <coordinates>55.789524577243476</coordinates>
+            <type>Point</type>
+        </geoData>
+        <ObjectName>Фитнесс-клуб «Вита-спорт»</ObjectName>
+        <Seats>0</Seats>
+        <PhotoWinter>
+            <Photo>4b9a5190-8475-4340-8d08-bd58bc075868</Photo>
+        </PhotoWinter>
+        <HasEquipmentRental>нет</HasEquipmentRental>
+        <WebSite>vitaclub.ru</WebSite>
+        <HasFirstAidPost>нет</HasFirstAidPost>
+        <District>район Хорошёво-Мнёвники</District>
+    </array>
+    <array>
+        <UsagePeriodWinter>01.01-31.12</UsagePeriodWinter>
+        <Address>Турчанинов переулок, дом 3, строение 1</Address>
+        <HasToilet>да</HasToilet>
+        <HasMusic>нет</HasMusic>
+        <Paid>платно</Paid>
+        <ServicesWinter>общая физическая подготовка</ServicesWinter>
+        <DimensionsWinter>
+            <Length>50.0</Length>
+            <Square>1000.0</Square>
+            <Width>20.0</Width>
+        </DimensionsWinter>
+        <AdmArea>Центральный административный округ</AdmArea>
+        <SurfaceTypeWinter>специальное покрытие</SurfaceTypeWinter>
+        <Lighting>смешанное освещение</Lighting>
+        <HasDressingRoom>нет</HasDressingRoom>
+        <WorkingHoursWinter>
+            <DayOfWeek>понедельник</DayOfWeek>
+            <Hours>08:00-20:00</Hours>
+        </WorkingHoursWinter>
+        <WorkingHoursWinter>
+            <DayOfWeek>вторник</DayOfWeek>
+            <Hours>08:00-20:00</Hours>
+        </WorkingHoursWinter>
+        <WorkingHoursWinter>
+            <DayOfWeek>среда</DayOfWeek>
+            <Hours>08:00-20:00</Hours>
+        </WorkingHoursWinter>
+        <WorkingHoursWinter>
+            <DayOfWeek>четверг</DayOfWeek>
+            <Hours>08:00-20:00</Hours>
+        </WorkingHoursWinter>
+        <WorkingHoursWinter>
+            <DayOfWeek>пятница</DayOfWeek>
+            <Hours>08:00-20:00</Hours>
+        </WorkingHoursWinter>
+        <WorkingHoursWinter>
+            <DayOfWeek>суббота</DayOfWeek>
+            <Hours>08:00-20:00</Hours>
+        </WorkingHoursWinter>
+        <WorkingHoursWinter>
+            <DayOfWeek>воскресенье</DayOfWeek>
+            <Hours>08:00-20:00</Hours>
+        </WorkingHoursWinter>
+        <HasCashMachine>нет</HasCashMachine>
+        <HelpPhone>(499) 246-13-44</HelpPhone>
+        <HasTechService>нет</HasTechService>
+        <NameWinter>бассейн плавательный 50-ти метровый открытый</NameWinter>
+        <DisabilityFriendly>частично приспособлен</DisabilityFriendly>
+        <HasEatery>нет</HasEatery>
+        <global_id>407174568</global_id>
+        <HasWifi>да</HasWifi>
+        <geoData>
+            <coordinates>37.59692842955238</coordinates>
+            <coordinates>55.736218228001235</coordinates>
+            <type>Point</type>
+        </geoData>
+        <ObjectName>Физкультурно-оздоровительный комплекс «Чайка»</ObjectName>
+        <Seats>0</Seats>
+        <PhotoWinter>
+            <Photo>9fdbe091-a2ba-4629-8500-f41347d7882a</Photo>
+        </PhotoWinter>
+        <HasEquipmentRental>нет</HasEquipmentRental>
+        <WebSite>www.chayka-sport.ru</WebSite>
+        <HasFirstAidPost>да</HasFirstAidPost>
+        <District>район Хамовники</District>
+    </array>
+    <array>
+        <UsagePeriodWinter>01.04-30.11</UsagePeriodWinter>
+        <Email>mocvs@mossport.ru</Email>
+        <Address>Мироновская улица, дом 27, строение 2</Address>
+        <HasToilet>да</HasToilet>
+        <HasMusic>да</HasMusic>
+        <Paid>платно</Paid>
+        <ServicesWinter>общая физическая подготовка</ServicesWinter>
+        <DimensionsWinter>
+            <Length>50.0</Length>
+            <Square>1082.5</Square>
+            <Width>21.65</Width>
+            <Depth>1.9</Depth>
+        </DimensionsWinter>
+        <AdmArea>Восточный административный округ</AdmArea>
+        <SurfaceTypeWinter>специальное покрытие</SurfaceTypeWinter>
+        <Lighting>смешанное освещение</Lighting>
+        <HasDressingRoom>да</HasDressingRoom>
+        <WorkingHoursWinter>
+            <DayOfWeek>понедельник</DayOfWeek>
+            <Hours>06:45-22:00</Hours>
+        </WorkingHoursWinter>
+        <WorkingHoursWinter>
+            <DayOfWeek>вторник</DayOfWeek>
+            <Hours>06:45-22:00</Hours>
+        </WorkingHoursWinter>
+        <WorkingHoursWinter>
+            <DayOfWeek>среда</DayOfWeek>
+            <Hours>06:45-22:00</Hours>
+        </WorkingHoursWinter>
+        <WorkingHoursWinter>
+            <DayOfWeek>четверг</DayOfWeek>
+            <Hours>06:45-22:00</Hours>
+        </WorkingHoursWinter>
+        <WorkingHoursWinter>
+            <DayOfWeek>пятница</DayOfWeek>
+            <Hours>06:45-22:00</Hours>
+        </WorkingHoursWinter>
+        <WorkingHoursWinter>
+            <DayOfWeek>суббота</DayOfWeek>
+            <Hours>06:45-22:00</Hours>
+        </WorkingHoursWinter>
+        <WorkingHoursWinter>
+            <DayOfWeek>воскресенье</DayOfWeek>
+            <Hours>06:45-22:00</Hours>
+        </WorkingHoursWinter>
+        <HasCashMachine>нет</HasCashMachine>
+        <HelpPhone>(499) 369-74-02</HelpPhone>
+        <HasTechService>нет</HasTechService>
+        <NameWinter>бассейн плавательный 50-ти метровый открытый, «Бассейн № 9»</NameWinter>
+        <DisabilityFriendly>частично приспособлен</DisabilityFriendly>
+        <HasEatery>нет</HasEatery>
+        <global_id>1019648851</global_id>
+        <HasWifi>нет</HasWifi>
+        <geoData>
+            <coordinates>37.73136897553206</coordinates>
+            <coordinates>55.78760018959408</coordinates>
+            <type>Point</type>
+        </geoData>
+        <ObjectName>Бассейн плавательный «Открытый комплекс»</ObjectName>
+        <Seats>0</Seats>
+        <PhotoWinter>
+            <Photo>1a58bac8-d743-4d46-8880-d64f0cd39c07</Photo>
+        </PhotoWinter>
+        <HasEquipmentRental>нет</HasEquipmentRental>
+        <WebSite>mocws.ru</WebSite>
+        <PaidComments>300-400 рублей</PaidComments>
+        <HasFirstAidPost>да</HasFirstAidPost>
+        <District>район Соколиная Гора</District>
+    </array>
+    <array>
+        <UsagePeriodWinter>01.01-31.12</UsagePeriodWinter>
+        <Address>Турчанинов переулок, дом 3, строение 1</Address>
+        <HasToilet>да</HasToilet>
+        <HasMusic>нет</HasMusic>
+        <Paid>платно</Paid>
+        <ServicesWinter>общая физическая подготовка</ServicesWinter>
+        <DimensionsWinter>
+            <Length>25.0</Length>
+            <Square>375.0</Square>
+            <Width>15.0</Width>
+        </DimensionsWinter>
+        <AdmArea>Центральный административный округ</AdmArea>
+        <SurfaceTypeWinter>специальное покрытие</SurfaceTypeWinter>
+        <Lighting>смешанное освещение</Lighting>
+        <HasDressingRoom>нет</HasDressingRoom>
+        <WorkingHoursWinter>
+            <DayOfWeek>понедельник</DayOfWeek>
+            <Hours>08:00-20:00</Hours>
+        </WorkingHoursWinter>
+        <WorkingHoursWinter>
+            <DayOfWeek>вторник</DayOfWeek>
+            <Hours>08:00-20:00</Hours>
+        </WorkingHoursWinter>
+        <WorkingHoursWinter>
+            <DayOfWeek>среда</DayOfWeek>
+            <Hours>08:00-20:00</Hours>
+        </WorkingHoursWinter>
+        <WorkingHoursWinter>
+            <DayOfWeek>четверг</DayOfWeek>
+            <Hours>08:00-20:00</Hours>
+        </WorkingHoursWinter>
+        <WorkingHoursWinter>
+            <DayOfWeek>пятница</DayOfWeek>
+            <Hours>08:00-20:00</Hours>
+        </WorkingHoursWinter>
+        <WorkingHoursWinter>
+            <DayOfWeek>суббота</DayOfWeek>
+            <Hours>08:00-20:00</Hours>
+        </WorkingHoursWinter>
+        <WorkingHoursWinter>
+            <DayOfWeek>воскресенье</DayOfWeek>
+            <Hours>08:00-20:00</Hours>
+        </WorkingHoursWinter>
+        <HasCashMachine>нет</HasCashMachine>
+        <HelpPhone>(499) 246-13-44</HelpPhone>
+        <HasTechService>нет</HasTechService>
+        <NameWinter>бассейн плавательный 25-ти метровый открытый</NameWinter>
+        <DisabilityFriendly>частично приспособлен</DisabilityFriendly>
+        <HasEatery>нет</HasEatery>
+        <global_id>1019648861</global_id>
+        <HasWifi>да</HasWifi>
+        <geoData>
+            <coordinates>37.59737904066657</coordinates>
+            <coordinates>55.73600938908822</coordinates>
+            <type>Point</type>
+        </geoData>
+        <ObjectName>Физкультурно-оздоровительный комплекс «Чайка»</ObjectName>
+        <Seats>0</Seats>
+        <HasEquipmentRental>нет</HasEquipmentRental>
+        <WebSite>www.chayka-sport.ru</WebSite>
+        <HasFirstAidPost>да</HasFirstAidPost>
+        <District>район Хамовники</District>
+    </array>
+</catalog>
