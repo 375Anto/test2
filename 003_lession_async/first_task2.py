@@ -17,14 +17,14 @@ def decorator(func):
         from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor
         # if value < 3000:
         executor_class = ThreadPoolExecutor
+        max_workers = 4
         # else:
         #     executor_class = ProcessPoolExecutor
-        executor = executor_class(max_workers=4)
-        a = int(value / 4)
-        params = [
-            [0, a, 2*a, 3*a],
-            [a-1, 2*a-1, 3*a-1, value]
-            ]
+        executor = executor_class(max_workers=max_workers)
+        a = int(value / max_workers)
+        params = [[a * x + 1 for x in range(0, max_workers)],
+                  [a * (x + 1) for x in range(max_workers)]
+                  ]
         return reduce(mul, executor.map(func, *params))
     return wrapper
 
@@ -53,17 +53,18 @@ def fact1(started=1, finished=0):
 def fact_by_process(value):
     from concurrent.futures import ProcessPoolExecutor
     executor_class = ProcessPoolExecutor
-    executor = executor_class(max_workers=4)
+    max_workers = 4
+    executor = executor_class(max_workers=max_workers)
     a = int(value / 4)
     params = [
-        [0, a, 2*a, 3*a],
-        [a-1, 2*a-1, 3*a-1, value]
+        [a * x + 1 for x in range(0, max_workers)],
+        [a * (x + 1) for x in range(max_workers)]
         ]
     return reduce(mul, executor.map(fact1, *params))
 
 
 if __name__ == '__main__':
-    val = 30000
+    val = 500000
     print('multithread----')
     start_time = time.time()
     result = fact(val)
