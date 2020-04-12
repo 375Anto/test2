@@ -51,7 +51,7 @@ def fact1(started=1, finished=0):
 
 
 if __name__ == '__main__':
-    val = 3000
+    val = 10000
     print('multithread----')
     start_time = time.time()
     result = fact(val)

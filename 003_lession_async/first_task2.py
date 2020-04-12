@@ -63,12 +63,13 @@ def fact_by_process(value):
 
 
 if __name__ == '__main__':
-    val = 500000
+    val = 30000
     print('multithread----')
     start_time = time.time()
     result = fact(val)
     print(' it was during {:2f} sec.'.format(time.time() - start_time))
     print('multiprocessing----')
+    start_time = time.time()
     result2 = fact_by_process(val)
     print(' it was during {:2f} sec.'.format(time.time() - start_time))
     print('result of multiThreads and multiprocessors is the same: ', result == result2)
